@@ -1,0 +1,2 @@
+# frontity-portfolio-blog
+I’m Shapon Pal, Full-Stack Web &amp; Mobile Developer over 7 years of full time working experience.  My skills and experiences on scalable React application Development, PHP Full Stack Web Development, WordPress Full Stack themes and Plugins Development, Mobile App Development for Android and iOS, Real-time Application, Python Application, Websites, APIs, Web Scraping, Developments in Artificial Intelligence and Game Development (learning stage).  I’m enthusiastic. I love to update Myself with new technologies and services.
