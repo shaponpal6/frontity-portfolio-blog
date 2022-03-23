@@ -2,7 +2,7 @@ const settings = {
   name: "frontity",
   state: {
     frontity: {
-      url: "https://admin.shapon.me/", //"http://localhost/wordpress/",
+      url: "http://api.shapon.xyz/", //"http://localhost/wordpress/",
       title: "SHAPON",
       description: "",
     },
